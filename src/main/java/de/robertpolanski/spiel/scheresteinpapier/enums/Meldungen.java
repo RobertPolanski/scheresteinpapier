@@ -2,6 +2,7 @@ package de.robertpolanski.spiel.scheresteinpapier.enums;
 
 /**
  * Aufzählungstyp der Meldungen
+ * Das wurde in feature/f1 hinzugefügt
  */
 public enum Meldungen {
 

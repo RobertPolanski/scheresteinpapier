@@ -8,6 +8,7 @@ import de.robertpolanski.spiel.scheresteinpapier.strategie.StrategieFabrik;
 
 /**
  * In dieser klasse ist die Spiellogik implementiert.
+ * Das wurde in feature/f1 hinzugefügt
  */
 public class SpielHelper {
 
