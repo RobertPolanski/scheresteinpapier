@@ -4,6 +4,7 @@ import de.robertpolanski.spiel.scheresteinpapier.enums.StrategieEnum;
 
 /**
  * Pojo Klasse, die einen Spieler repräsentiert.
+ * Das wurde in feature/f1 hinzugefügt als commit 2
  */
 public class Spieler {
 
